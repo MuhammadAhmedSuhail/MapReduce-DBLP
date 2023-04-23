@@ -35,7 +35,7 @@ You will also need to have Java on your machine. You can download the latest ver
 ### Installing
 Clone this repository onto your local machine.
 ```
-git clone https://github.com/MuhammadAhmedSuhail/MapReduce-DBLP.git
+https://github.com/MuhammadAhmedSuhail/MapReduce-Hadoop-DBLP.git
 ```
 
 ## Conclusion
@@ -53,5 +53,3 @@ There are several potential future directions for this project. For example, I c
 
 ## Acknowledgments:
 - This project was completed as an assignment for **Parallel and Distributed Computing** at FAST - NUCES Islamabad.
-
-
